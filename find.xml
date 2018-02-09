@@ -5,6 +5,7 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Project 'myApp'" />
+    <option name="FILE_MASK" value="*.rb" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -18,8 +19,8 @@
       <mask>*.scss</mask>
       <mask>!*.log*</mask>
       <mask>*.js</mask>
-      <mask>*.rb</mask>
       <mask>*.erb</mask>
+      <mask>*.rb</mask>
     </recentFileMasks>
   </component>
 </application>
