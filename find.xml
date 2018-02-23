@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'myApp'" />
-    <option name="defaultScopeName" value="Project 'myApp'" />
+    <option name="customScope" value="Project 'busportal-navi'" />
+    <option name="defaultScopeName" value="Project 'busportal-navi'" />
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="Project 'myApp'" />
+    <option name="SEARCH_SCOPE" value="Project 'busportal-navi'" />
     <option name="FILE_MASK" value="!*.log*" />
     <recentFileMasks>
       <mask>*.properties</mask>
