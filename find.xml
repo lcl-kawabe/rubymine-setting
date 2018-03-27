@@ -2,8 +2,6 @@
   <component name="FindSettings">
     <option name="customScope" value="Project 'busportal-navi'" />
     <option name="defaultScopeName" value="Project 'busportal-navi'" />
-    <option name="localRegularExpressions" value="true" />
-    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project 'busportal-navi'" />
     <recentFileMasks>
       <mask>*.properties</mask>
