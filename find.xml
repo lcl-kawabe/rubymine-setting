@@ -1,0 +1,25 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="Project 'busportal-navi'" />
+    <option name="defaultScopeName" value="Project 'busportal-navi'" />
+    <option name="localRegularExpressions" value="true" />
+    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
+    <option name="SEARCH_SCOPE" value="Project 'busportal-navi'" />
+    <recentFileMasks>
+      <mask>*.properties</mask>
+      <mask>*.html</mask>
+      <mask>*.jsp</mask>
+      <mask>*.xml</mask>
+      <mask>*.java</mask>
+      <mask>*.as</mask>
+      <mask>*.css</mask>
+      <mask>*.mxml</mask>
+      <mask>*.slim</mask>
+      <mask>*.scss</mask>
+      <mask>*.js</mask>
+      <mask>*.erb</mask>
+      <mask>*.rb</mask>
+      <mask>!*.log*</mask>
+    </recentFileMasks>
+  </component>
+</application>
