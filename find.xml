@@ -7,7 +7,7 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project 'busportal-navi'" />
-    <option name="FILE_MASK" value="!*.xml" />
+    <option name="FILE_MASK" value="*.json" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -24,6 +24,7 @@
       <mask>*.rb</mask>
       <mask>!*.log*</mask>
       <mask>!*.xml</mask>
+      <mask>*.json</mask>
     </recentFileMasks>
   </component>
 </application>
