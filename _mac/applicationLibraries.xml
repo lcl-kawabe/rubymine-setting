@@ -3868,7 +3868,7 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.2/lib/ruby/2.2.0/rubygems" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.2/lib/ruby/2.2.0/tkextlib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.2/lib/ruby/2.2.0/bigdecimal" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.2.2/lib/ruby/2.2.0/x86_64-darwin17" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.2/lib/ruby/2.2.0/x86_64-darwin16" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.2/lib/ruby/2.2.0/unicode_normalize" />
       </CLASSES>
       <SOURCES>
@@ -3902,7 +3902,7 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.2/lib/ruby/2.2.0/rubygems" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.2/lib/ruby/2.2.0/tkextlib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.2/lib/ruby/2.2.0/bigdecimal" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.2.2/lib/ruby/2.2.0/x86_64-darwin17" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.2/lib/ruby/2.2.0/x86_64-darwin16" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.2/lib/ruby/2.2.0/unicode_normalize" />
       </SOURCES>
     </library>
