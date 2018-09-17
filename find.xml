@@ -17,11 +17,13 @@
       <mask>*.slim</mask>
       <mask>*.scss</mask>
       <mask>*.erb</mask>
-      <mask>*.rb</mask>
       <mask>!*.log*</mask>
       <mask>!*.xml</mask>
       <mask>*.json</mask>
       <mask>*.js</mask>
+      <mask>*.rb</mask>
+      <mask>*.php</mask>
+      <mask>*.yml</mask>
     </recentFileMasks>
   </component>
 </application>

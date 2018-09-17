@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping ext="rb%3a112%3ain+%60get_new_articles%27%2c706075fab672ae341126cc51e793ec9a009f18c1%2c51a8a5546e7c7c467352099417aaf3a21e7948c0" type="PLAIN_TEXT" />
       <mapping ext="script" type="PLAIN_TEXT" />
+      <mapping ext="php" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
