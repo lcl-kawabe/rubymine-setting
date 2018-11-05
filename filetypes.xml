@@ -5,6 +5,7 @@
       <mapping ext="csv" type="PLAIN_TEXT" />
       <mapping ext="script" type="PLAIN_TEXT" />
       <mapping ext="php" type="PLAIN_TEXT" />
+      <mapping pattern="convert_prif_name" type="YAML" />
     </extensionMap>
   </component>
 </application>
