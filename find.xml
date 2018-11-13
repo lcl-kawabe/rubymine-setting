@@ -3,7 +3,7 @@
     <option name="customScope" value="Project Files" />
     <option name="defaultScopeName" value="Project Files" />
     <option name="SEARCH_SCOPE" value="Project Files" />
-    <option name="FILE_MASK" value="!*.log*" />
+    <option name="FILE_MASK" value="!*.[scss|css|erb]" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -23,6 +23,7 @@
       <mask>*.php</mask>
       <mask>*.yml</mask>
       <mask>!*.log*</mask>
+      <mask>!*.[scss|css|erb]</mask>
     </recentFileMasks>
   </component>
 </application>
